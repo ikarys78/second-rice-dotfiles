@@ -1,0 +1,10 @@
+font_family JetBrainsMono Nerd Font
+font_size 10
+
+
+# BEGIN_KITTY_THEME
+# Adapta Nokto Maia
+include current-theme.conf
+background_opacity 0.75
+# END_KITTY_THEME
+shell /usr/bin/zsh
