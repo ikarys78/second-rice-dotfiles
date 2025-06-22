@@ -1,0 +1,21 @@
+[ui]
+background = "#ffffff"
+foreground = "#1e1e1e"
+title      = "#2e2e2e"
+highlight  = "#5c5c5c"
+border     = "#cccccc"
+cursor_line = "#f0f0f0"
+selection  = "#d0d0d0"
+status     = "#e0e0e0"
+
+[icon]
+directory = "#1e1e1e"
+file = "#2e2e2e"
+link = "#666666"
+exe = "#0087ff"
+image = "#b58900"
+video = "#d33682"
+audio = "#6c71c4"
+archive = "#cb4b16"
+document = "#859900"
+
